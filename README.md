@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jwaldrip/concerned_inheritance.png?branch=master)](https://travis-ci.org/jwaldrip/concerned_inheritance)
+
 # ConcernedInheritance
 
 ConcernedInheritance, allows you to place inheritance callbacks within your concerns.
