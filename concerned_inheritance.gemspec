@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["jason@waldrip.net"]
   gem.description   = %q{Place inheritance callbacks within your concerns.}
   gem.summary       = %q{ConcernedInheritance, allows you to place inheritance callbacks within your concerns.}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/jwaldrip/concerned_inheritance"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }

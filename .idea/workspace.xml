@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f94cae54-064d-49d8-8fe3-4fa76bd0aa3b" name="Default" comment="" />
+    <list default="true" id="f94cae54-064d-49d8-8fe3-4fa76bd0aa3b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/concerned_inheritance.gemspec" afterPath="$PROJECT_DIR$/concerned_inheritance.gemspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="concerned_inheritance.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="f94cae54-064d-49d8-8fe3-4fa76bd0aa3b" time="1358122459905" ignored="false" />
-    <file path="$PROJECT_DIR$/../memory_model/memory_model.gemspec" changelist="f94cae54-064d-49d8-8fe3-4fa76bd0aa3b" time="1358127343563" ignored="false" />
-    <file path="/concerned_inheritance.gemspec" changelist="f94cae54-064d-49d8-8fe3-4fa76bd0aa3b" time="1358127130185" ignored="false" />
+    <file path="$PROJECT_DIR$/../memory_model/memory_model.gemspec" changelist="f94cae54-064d-49d8-8fe3-4fa76bd0aa3b" time="1358127343955" ignored="false" />
+    <file path="/concerned_inheritance.gemspec" changelist="f94cae54-064d-49d8-8fe3-4fa76bd0aa3b" time="1358127850066" ignored="false" />
     <file path="/delegator.rb" changelist="f94cae54-064d-49d8-8fe3-4fa76bd0aa3b" time="1358126400990" ignored="false" />
     <file path="/README.md" changelist="f94cae54-064d-49d8-8fe3-4fa76bd0aa3b" time="1358127018617" ignored="false" />
     <file path="/concerned_inheritance_spec.rb" changelist="f94cae54-064d-49d8-8fe3-4fa76bd0aa3b" time="1358126836599" ignored="false" />
     <file path="$PROJECT_DIR$/../memory_model/README.md" changelist="f94cae54-064d-49d8-8fe3-4fa76bd0aa3b" time="1358126963957" ignored="false" />
     <file path="$PROJECT_DIR$/../memory_model/.travis.yml" changelist="f94cae54-064d-49d8-8fe3-4fa76bd0aa3b" time="1358127319290" ignored="false" />
     <file path="/memory_model.gemspec" changelist="f94cae54-064d-49d8-8fe3-4fa76bd0aa3b" time="1358127339538" ignored="false" />
+    <file path="$PROJECT_DIR$/../memory_model/Gemfile.lock" changelist="f94cae54-064d-49d8-8fe3-4fa76bd0aa3b" time="1358127826772" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,19 +33,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="concerned_inheritance.gemspec" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="concerned_inheritance.gemspec" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/concerned_inheritance.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="75" selection-start="943" selection-end="943" vertical-scroll-proportion="0.0">
+            <state line="12" column="72" selection-start="640" selection-end="640" vertical-scroll-proportion="0.2147651">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="travis.yml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="travis.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="40" selection-start="174" selection-end="174" vertical-scroll-proportion="0.08948546">
+            <state line="5" column="40" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -140,8 +144,8 @@
         <option value="$PROJECT_DIR$/lib/concerned_inheritance/delegator.rb" />
         <option value="$PROJECT_DIR$/spec/concerned_inheritance_spec.rb" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/concerned_inheritance.gemspec" />
         <option value="$PROJECT_DIR$/travis.yml" />
+        <option value="$PROJECT_DIR$/concerned_inheritance.gemspec" />
       </list>
     </option>
   </component>
@@ -398,13 +402,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/concerned_inheritance_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="13" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/concerned_inheritance/class_methods_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -433,16 +430,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/concerned_inheritance.gemspec">
+    <entry file="file://$PROJECT_DIR$/travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="75" selection-start="943" selection-end="943" vertical-scroll-proportion="0.0">
+        <state line="5" column="40" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/travis.yml">
+    <entry file="file://$PROJECT_DIR$/spec/concerned_inheritance_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="40" selection-start="174" selection-end="174" vertical-scroll-proportion="0.08948546">
+        <state line="20" column="13" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concerned_inheritance.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="72" selection-start="640" selection-end="640" vertical-scroll-proportion="0.2147651">
           <folding />
         </state>
       </provider>
