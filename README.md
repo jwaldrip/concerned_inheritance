@@ -28,7 +28,7 @@ class MyClass
   include ConcernedInheritance
 
   inherited do
-    puts "#{self} was inherited from #{baseclass}
+    puts "#{self} was inherited from #{baseclass}"
   end
 
 end
@@ -37,7 +37,7 @@ module MyModule
   include ConcernedInheritance
 
   inherited do
-    puts "#{self} was inherited from #{baseclass}
+    puts "#{self} was inherited from #{baseclass}"
   end
 
 end
